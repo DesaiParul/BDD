@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="62.691289">
+    <testcase classname="Free CRM Create Contact feature" name="Free CRM Create a New Conatct Scenario" time="13.988445">
+        <system-out><![CDATA[Given user is on index Page.................................................passed
+When title of login page is Free CRM........................................passed
+Then user should click login button.........................................passed
+Then user enters "paruldesai41@gmail.com" and "Parul@123"...................passed
+Then user clicks on login button............................................passed
+Then user is on homepage....................................................passed
+Then user move to new contact page..........................................passed
+Then user enters contact details "Parul" and "Desai" and "Manager"..........passed
+Then user close the browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Create Contact feature" name="Free CRM Create a New Conatct Scenario 2" time="12.410167">
+        <system-out><![CDATA[Given user is on index Page.................................................passed
+When title of login page is Free CRM........................................passed
+Then user should click login button.........................................passed
+Then user enters "paruldesai41@gmail.com" and "Parul@123"...................passed
+Then user clicks on login button............................................passed
+Then user is on homepage....................................................passed
+Then user move to new contact page..........................................passed
+Then user enters contact details "Tom" and "Peter" and "Director"...........passed
+Then user close the browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Create Contact feature" name="Free CRM Create a New Conatct Scenario 3" time="11.682214">
+        <system-out><![CDATA[Given user is on index Page.................................................passed
+When title of login page is Free CRM........................................passed
+Then user should click login button.........................................passed
+Then user enters "paruldesai41@gmail.com" and "Parul@123"...................passed
+Then user clicks on login button............................................passed
+Then user is on homepage....................................................passed
+Then user move to new contact page..........................................passed
+Then user enters contact details "Jenny" and "Dsouza" and "Team Lead".......passed
+Then user close the browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Create Contact feature" name="Free CRM Create a New Conatct Scenario 4" time="12.473035">
+        <system-out><![CDATA[Given user is on index Page.................................................passed
+When title of login page is Free CRM........................................passed
+Then user should click login button.........................................passed
+Then user enters "paruldesai41@gmail.com" and "Parul@123"...................passed
+Then user clicks on login button............................................passed
+Then user is on homepage....................................................passed
+Then user move to new contact page..........................................passed
+Then user enters contact details "Rohan" and "Arora" and "Sr.Programmer"....passed
+Then user close the browser.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Create Contact feature" name="Free CRM Create a New Conatct Scenario 5" time="12.137428">
+        <system-out><![CDATA[Given user is on index Page.................................................passed
+When title of login page is Free CRM........................................passed
+Then user should click login button.........................................passed
+Then user enters "paruldesai41@gmail.com" and "Parul@123"...................passed
+Then user clicks on login button............................................passed
+Then user is on homepage....................................................passed
+Then user move to new contact page..........................................passed
+Then user enters contact details "Tejal" and "Desai" and "Director".........passed
+Then user close the browser.................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
